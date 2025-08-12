@@ -7,7 +7,9 @@
 
 -  I will upload **How  To Use This Proj To Play BA** and **How To Play Another Video By This Proj** on README soon (a few days)
 
-- If you need to contact with me: [my bilibili account]('https://b23.tv/GNuXiFn') and 
-[my blog]('https://xtiantech.cn')
+- If you need to contact with me:
+   [my bilibili account]('https://b23.tv/GNuXiFn')
+  and 
+  [my blog]('https://xtiantech.cn')
 
 ### You can upload some issue for me. I will try my best to fix those,thanks a lot!

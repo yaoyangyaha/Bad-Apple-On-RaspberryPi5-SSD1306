@@ -9,8 +9,8 @@
 
 - If you need to contact with me:
   
- [my bilibili account]('https://b23.tv/GNuXiFn')
+ [my bilibili account](https://b23.tv/GNuXiFn)
 
-[my blog]('https://xtiantech.cn')
+[my blog](https://xtiantech.cn)
 
 ### You can upload some issue for me. I will try my best to fix those,thanks a lot!
